@@ -1,5 +1,8 @@
-let anything = -20;
-anything = 'Text';
+// TASK 2
+
+let anything: any = -20;
+
+anything = "Text";
 anything = {};
 
 export {};
